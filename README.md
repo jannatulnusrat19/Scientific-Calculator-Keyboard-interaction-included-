@@ -37,7 +37,7 @@
    - Adds event listeners for buttons and key inputs.  
    - Sets the calculator's layout, size, and design.
 ---
-### 2. **Calculate()**  
+### 2. **calculate()**  
 - **Purpose:** Performs basic arithmetic operations (+, -, *, /) based on the selected operator.  
 - **Key Actions:**  
    - Handles division by zero and invalid operations.  

@@ -29,5 +29,13 @@
 6. **User Interface**: 
    - A clean and interactive GUI with buttons for input.  
    - Display area for showing user input and calculation results.
-     
+
+     ### 1. **Calculator()**  
+- **Purpose:** The constructor initializes the calculator's user interface using **JFrame**, **JTextField**, and **JPanel** components.  
+- **Key Actions:**  
+   - Creates the display area and buttons.  
+   - Adds event listeners for buttons and key inputs.  
+   - Sets the calculator's layout, size, and design.
+
+
   

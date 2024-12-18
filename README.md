@@ -26,6 +26,8 @@
 5. Error Handling:
    - Division by zero and invalid inputs are handled gracefully with user-friendly error messages.
 
-6. User Interface: 
+6. **User Interface**: 
    - A clean and interactive GUI with buttons for input.  
    - Display area for showing user input and calculation results.
+     
+  
